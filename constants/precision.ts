@@ -1,0 +1,6 @@
+export const DECIMAL_PLACES_FOR_LATITUDE_LONGITUDE = 8;
+export const DECIMAL_PLACES_FOR_CARTESIAN = 4;
+export const DECIMAL_PLACES_FOR_HEIGHT = 3;
+export const DECIMAL_PLACES_FOR_SECONDS = 3;
+export const MAX_ITER = 50;
+export const MAX_DELTA_ITER = 1e-15;
